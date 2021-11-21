@@ -57,7 +57,7 @@ sections:
   - type: features_section
     title: About
     features:
-      - title: Content Creation
+      - title: Astro Styling
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
