@@ -55,7 +55,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: ervices
+    title: About
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
