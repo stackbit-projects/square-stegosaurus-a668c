@@ -9,7 +9,6 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process?
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
