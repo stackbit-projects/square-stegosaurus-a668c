@@ -44,8 +44,9 @@ sections:
         media_width: sixty
       - title: Collaborations
         content: >
-          Exciting collaborations with designers and creatives in the near
-          future... 
+          The nature of Yours with Mine is to illuminate the power of
+          collaboration both literally and figuratively. Exciting collaborations
+          with designers and creatives in the near future...
         actions:
           - label: Learn More
             url: /about
