@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Yours with Mine is a unique fashion service that combines astrology and
+      fashion to elevate your style.
     actions:
       - label: Contact Me
         url: /contact
