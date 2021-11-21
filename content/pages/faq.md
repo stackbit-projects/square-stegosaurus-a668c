@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - type: hero_section
-    title: Collaborations/Shop
+    title: Collaborations/Shop Coming Soon...
     align: center
     padding_top: medium
     padding_bottom: small
