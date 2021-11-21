@@ -45,8 +45,12 @@ sections:
       - title: Collaborations
         content: >
           The nature of Yours with Mine is to illuminate the power of
-          collaboration both literally and figuratively. Exciting collaborations
-          with designers and creatives in the near future...
+          collaboration both literally and figuratively. Through personal chart
+          consultations, we can unlock your own personal power and broaden your
+          knowledge of self, that will be communicated through your wardrobe.
+          Fashion, like Astrology is an explorative medium of self. I will also
+          be collaborating with designers and creatives in the near future on
+          exciting projects... 
         actions:
           - label: Learn More
             url: /about
