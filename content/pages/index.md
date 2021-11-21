@@ -58,7 +58,7 @@ sections:
     title: About
     features:
       - title: Astro Styling
-        subtitle: 'Fusing astrology and fashion for optimal '
+        subtitle: An unique fusion of astrology and fashion
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
