@@ -21,7 +21,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    title: Welcome!
+    title: Welcome
   - type: features_section
     title: About
     features:
