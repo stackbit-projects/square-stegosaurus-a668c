@@ -30,5 +30,4 @@ layout: page
 ---
 ![A woman using a laptop](/images/about.jpg)
 
-Fashion stylist Stephanie Fragakis based in London and Birmingham has worked within the industry as freelance stylist who offers a niche flair to styling be incorporating her years studying Astrology within her craft. 
-
+Fashion stylist Stephanie Fragakis based in London and Birmingham has worked within the industry as a freelance stylist offering a niche flair to her services by incorporating her years studying Astrology within her craft.
