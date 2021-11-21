@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: >-
       Yours with Mine is a unique fashion service that combines astrology and
-      fashion to elevate your style.
+      fashion to elevate your style by fashion stylist Stephanie Fragakis.
     actions:
       - label: Contact Me
         url: /contact
