@@ -64,7 +64,7 @@ sections:
           alongside my fashion industry experience to create a uniquely optimal
           personalised styling service. 
         actions:
-          - label: See Writing Samples
+          - label: Book a consultation to find out more
             url: /faq
             style: primary
             has_icon: true
