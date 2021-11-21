@@ -59,10 +59,10 @@ sections:
     features:
       - title: Astro Styling
         subtitle: A unique fusion of astrology and fashion
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Implementing my years of studies within Astrology and the esoteric
+          alongside my fashion industry experience to create a uniquely optimal
+          personalised styling service. 
         actions:
           - label: See Writing Samples
             url: /faq
